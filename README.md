@@ -14,6 +14,7 @@ Test application acting as a multi-call proxy to https://api.kanye.rest/ with us
 * Clone repo.
 * Install dependencies with `composer install`.
 * Edit your local `.env` file to point to the correct MySQL DB locally (copy the `.env.example` template to `.env` first.)
+* Run migrations with `php artisan migrate`.
 
 ## Usage
 
